@@ -1,4 +1,5 @@
-public class mapper(jscbkjc)
-  jbe
-  cknekcnl
-  
+public class file{
+       public static void main(String args[]){
+       System.out.println("Welcome to Java!");
+       }
+}       
